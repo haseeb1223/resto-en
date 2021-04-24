@@ -8,7 +8,7 @@
         <link rel="stylesheet" href="{{asset('bootstrap/css/bootstrap.min.css')}}">
         <script src="{{asset('bootstrap/js/bootstrap.min.js')}}"></script>
 
-        <title>Restaurant</title>
+        <title>Restaurant Application</title>
     </head>
     <body>
         <nav class="navbar navbar-expand-lg navbar-light bg-light   ">
