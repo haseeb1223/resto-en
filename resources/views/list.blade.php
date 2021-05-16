@@ -47,8 +47,8 @@
                     <td>{{$item->email}}</td>
                     <td>{{$item->address}}</td>
                     <td>
-                        <a href="{{"delete".$item->id}}"><button class="btn btn-danger">Delete</button></a>
-                        <a href="{{"find".$item->id}}"><button class="btn btn-success">Update</button></a>
+                        <a href="{{"delete".$item->id}}"><button class="btn btn-sm btn-danger">Delete</button></a>
+                        <a href="{{"find".$item->id}}"><button class="btn btn-sm btn-success">Update</button></a>
                     </td>
                 </tr>
             @endforeach
